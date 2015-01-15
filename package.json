@@ -1,6 +1,6 @@
 {
 	"name": "silex-component-kernel",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "[SILEX][COMPONENT] Silex kernel framework",
 	"author": "Valentin Allaire <valentin@sitexw.fr>",
 	"license": "MIT",
@@ -25,12 +25,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/silexjs/component-routing.git"
+		"url": "https://github.com/silexjs/component-kernel.git"
 	},
 	"bugs": {
-		"url": "https://github.com/silexjs/component-routing/issues"
+		"url": "https://github.com/silexjs/component-kernel/issues"
 	},
-	"homepage": "https://github.com/silexjs/component-routing",
+	"homepage": "https://github.com/silexjs/component-kernel",
 	"autoload": {
 		"psr-4": {
 			"Silex\\Component\\Kernel": "./lib/"
