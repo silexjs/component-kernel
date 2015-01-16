@@ -15,7 +15,7 @@
 		"silex-glob": "<2.0.0",
 		"silex-component-container": "0.0.x",
 		"silex-component-dispatcher": "0.0.x",
-		"silex-component-config": "0.0.x"
+		"silex-component-config": "0.0.x",
 		"silex-component-console": "0.0.x"
 	},
 	"devDependencies": {},
