@@ -1,6 +1,6 @@
 {
 	"name": "silex-component-kernel",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"description": "[SILEX][COMPONENT] Silex kernel framework",
 	"author": "Valentin Allaire <valentin@sitexw.fr>",
 	"license": "MIT",
@@ -12,11 +12,12 @@
 	"main": "index.js",
 	"dependencies": {
 		"spaceload": "<2.0.0",
-		"silex-glob": "<2.0.0",
+		"glob": "4.x",
+		"commander": "2.x",
 		"silex-component-container": "0.0.x",
 		"silex-component-dispatcher": "0.0.x",
 		"silex-component-config": "0.0.x",
-		"silex-component-console": "0.0.x"
+		"silex-component-log": "0.0.x"
 	},
 	"devDependencies": {},
 	"scripts": {
