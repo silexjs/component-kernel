@@ -1,6 +1,6 @@
 {
 	"name": "silex-component-kernel",
-	"version": "0.0.12",
+	"version": "0.0.13",
 	"description": "[SILEX][COMPONENT] Silex kernel framework",
 	"author": "Valentin Allaire <valentin@sitexw.fr>",
 	"license": "MIT",
